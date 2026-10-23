@@ -1,0 +1,6 @@
+{
+  "name": "FitForge Fitness Studio | 3D Interactive Performance Lab",
+  "description": "Futuristic 3D interactive gym website prototype for FitForge Fitness Studio featuring real-time WebGL athlete silhouette, equipment showcase, dynamic facility tour, and training modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
